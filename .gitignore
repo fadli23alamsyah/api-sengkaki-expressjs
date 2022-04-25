@@ -2,11 +2,11 @@ node_modules/
 build/
 npm-debug.log
 *.env
-.env.test
-.env.production
-.DS_Store
-.npm
-.eslintcache
+*.env.test
+*.env.production
+*.DS_Store
+*.npm
+*.eslintcache
 logs/
 *.log
 npm-debug.log*
